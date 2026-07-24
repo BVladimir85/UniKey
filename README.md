@@ -83,19 +83,6 @@
 3. Вставьте список строк в поле «Входящие данные».
 4. Используйте нужную функцию — результат появится в поле «Результат».
 
-## Сборка из исходников
-
-Требуется Visual Studio 2017 или новее с установленным компонентом «.NET desktop development».
-
-```
-git clone https://github.com/<ваш-username>/UniKey.git
-cd UniKey
-```
-
-Откройте `UniKey.sln` в Visual Studio и соберите проект (`Ctrl+Shift+B`).
-
-Скомпилированный exe появится в `UniKey/bin/Debug/` или `UniKey/bin/Release/`.
-
 ## Структура проекта
 
 ```
