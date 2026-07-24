@@ -99,4 +99,4 @@ UniKey/
 
 ## Лицензия
 
-(c) Vladimir-AWM
+MIT
